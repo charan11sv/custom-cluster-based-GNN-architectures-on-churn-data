@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 Contents
+##  Contents
 
 * [Project structure](#project-structure)
 * [Data & preprocessing](#data--preprocessing)
