@@ -1,3 +1,4 @@
+# ~~~~~~~~"Each notebooks in each folder have their own set of documentations in '.md' format that can guide you with those notebooks."~~~~~~~~
 # Cluster-Driven Churn Modeling with Custom GNNs
 
 **A full study across clustering techniques + a custom cluster-aware GNN for churn prediction**
